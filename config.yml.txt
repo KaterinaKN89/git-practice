@@ -1,2 +1,0 @@
-name: Final Project
-theme: minima
