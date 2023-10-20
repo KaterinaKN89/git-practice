@@ -1,9 +1,9 @@
 #     WeARE APPLICATION TESTING
 
-\
-\
-\
 
+\
+\
+\
       
 
 ### JIRA REPORTS
